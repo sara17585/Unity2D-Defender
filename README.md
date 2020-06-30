@@ -1,5 +1,5 @@
 # Defender
-Defender is 2D scrolling shooter similar to 1942 arcade game.You can find the game under FinalGame Folder.
+Defender is 2D scrolling shooter similar to 1942 arcade game. You can find the game under FinalGame Folder.
 
 ## Game Screen shots
 ### Main menu
